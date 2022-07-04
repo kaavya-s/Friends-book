@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: hwb(0 42% 57% / 0.747);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  color: wheat;
+  padding-bottom: 0px;
+  padding-right: 200px;
+  padding-top: 0px;
+  font-size: 1em;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+#backgroundImage {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  position: absolute;
+  height: 100vh;
+  padding-top: 70px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+#TitleName {
+  padding: 80px 10px 8px 10px;
+}
+#yourName {
+  padding: 10px;
+}
+#field1 {
+  padding: 10px;
+  padding-top: 15px;
+}
+#field2 {
+  padding: 10px;
+  padding-top: 15px;
+}
+#field3 {
+  padding: 10px;
+  padding-top: 15px;
+}
+#field4 {
+  padding: 10px;
+  padding-top: 15px;
+}
+#field5 {
+  padding: 10px;
+  padding-top: 15px;
+}
+#field6 {
+  padding: 10px;
+  padding-top: 15px;
+}
+#field7 {
+  padding: 10px;
+  padding-top: 25px;
+}
+
+#textBox1 {
+  padding: 20px;
+  background-color: aquamarine;
+}
+#textBox2 {
+  padding: 20px;
+  background-color: aquamarine;
+}
+#textBox3 {
+  padding: 20px;
+  background-color: aquamarine;
+}
